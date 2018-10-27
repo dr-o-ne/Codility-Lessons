@@ -1,81 +1,82 @@
 Solutions to Codility Lessons in C#
 =======================
-**Iterations**
-	- [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
 
-**Arrays**
-	- [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
-	- [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)
+### Iterations
+* [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
 
-**Time Complexity**
+### Arrays
+* [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
+* [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)
+
+### Time Complexity
 	- TapeEquilibrium
 	- FrogJmp
 	- PermMissingElem
 
-**Counting Elements**
+### Counting Elements
 	- PermCheck
 	- FrogRiverOne
 	- MissingInteger
 	- MaxCounters
 
-**Prefix Sums**
+### Prefix Sums
 	- PassingCars
 	- CountDiv
 	- MinAvgTwoSlice
 	- GenomicRangeQuery
 
-**Sorting**
+### Sorting
 	- MaxProductOfThree
 	- Triangle
 	- Distinct
 	- NumberOfDiscIntersections
 	- 
-**Stacks and Queues**
+### Stacks and Queues
 	- Brackets
 	- Nesting
 	- StoneWall
 	- Fish
 	
-**Leader**
+### Leader
 	- Dominator
 	- EquiLeader
 
-**Maximum slice problem**
+### Maximum slice problem
 	- MaxProfit
 	- MaxDoubleSliceSum
 	- MaxSliceSum
 
-**Prime and composite numbers**
+### Prime and composite numbers
 	- CountFactors
 	- MinPerimeterRectangle
 	- Peaks
 	- Flags
 
-**Sieve of Erastothenes**
+### Sieve of Erastothenes
 	- CountSemiprimes
 	- CountNonDivisible
 
-**Euclidian algorithm**
+### Euclidian algorithm
 	- ChocolatesByNumbers
 	- CommonPrimeDivisors
 
-**Fibonacci numbers**
+### Fibonacci numbers
 	- Ladder
 	- FibFrog
 
-**Binary search algorithm**
+### Binary search algorithm
 	- MinMaxDivision
 	- NailingPlanks
 
-**Caterpillar method**
+### Caterpillar method
 	- AbsDistinct
 	- CountTriangles
 	- CountDistinctSlices
 	- MinAbsSumOfTwo
 
-**Greedy algorithms**
+### Greedy algorithms
 	- TieRopes
 
-**Dynamic programming**
+### Dynamic programming
 	- NumberSolitaire
 	- MinAbsSum
