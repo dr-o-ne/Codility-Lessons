@@ -2,81 +2,82 @@ Solutions to Codility Lessons in C#
 =======================
 
 ### Iterations
-* [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
+- [x] [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
 
 ### Arrays
-* [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
-* [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)
+- [x] [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
+- [x] [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)
 
 ### Time Complexity
-	- TapeEquilibrium
-	- FrogJmp
-	- PermMissingElem
+- [x] [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)
+- [ ] TapeEquilibrium
+- [ ] FrogJmp
+
 
 ### Counting Elements
-	- PermCheck
-	- FrogRiverOne
-	- MissingInteger
-	- MaxCounters
+- [ ] PermCheck
+- [ ] FrogRiverOne
+- [ ] MissingInteger
+- [ ] MaxCounters
 
 ### Prefix Sums
-	- PassingCars
-	- CountDiv
-	- MinAvgTwoSlice
-	- GenomicRangeQuery
+- [ ] PassingCars
+- [ ] CountDiv
+- [ ] MinAvgTwoSlice
+- [ ] GenomicRangeQuery
 
 ### Sorting
-	- MaxProductOfThree
-	- Triangle
-	- Distinct
-	- NumberOfDiscIntersections
-	- 
+- [ ] MaxProductOfThree
+- [ ] Triangle
+- [ ] Distinct
+- [ ] NumberOfDiscIntersections
+
 ### Stacks and Queues
-	- Brackets
-	- Nesting
-	- StoneWall
-	- Fish
+- [ ] Brackets
+- [ ] Nesting
+- [ ] StoneWall
+- [ ] Fish
 	
 ### Leader
-	- Dominator
-	- EquiLeader
+- [ ] Dominator
+- [ ] EquiLeader
 
 ### Maximum slice problem
-	- MaxProfit
-	- MaxDoubleSliceSum
-	- MaxSliceSum
+- [ ] MaxProfit
+- [ ] MaxDoubleSliceSum
+- [ ] MaxSliceSum
 
 ### Prime and composite numbers
-	- CountFactors
-	- MinPerimeterRectangle
-	- Peaks
-	- Flags
+- [ ] CountFactors
+- [ ] MinPerimeterRectangle
+- [ ] Peaks
+- [ ] Flags
 
 ### Sieve of Erastothenes
-	- CountSemiprimes
-	- CountNonDivisible
+- [ ] CountSemiprimes
+- [ ] CountNonDivisible
 
 ### Euclidian algorithm
-	- ChocolatesByNumbers
-	- CommonPrimeDivisors
+- [ ] ChocolatesByNumbers
+- [ ] CommonPrimeDivisors
 
 ### Fibonacci numbers
-	- Ladder
-	- FibFrog
+- [ ] Ladder
+- [ ] FibFrog
 
 ### Binary search algorithm
-	- MinMaxDivision
-	- NailingPlanks
+- [ ] MinMaxDivision
+- [ ] NailingPlanks
 
 ### Caterpillar method
-	- AbsDistinct
-	- CountTriangles
-	- CountDistinctSlices
-	- MinAbsSumOfTwo
+- [ ] AbsDistinct
+- [ ] CountTriangles
+- [ ] CountDistinctSlices
+- [ ] MinAbsSumOfTwo
 
 ### Greedy algorithms
-	- TieRopes
+- [ ] TieRopes
 
 ### Dynamic programming
-	- NumberSolitaire
-	- MinAbsSum
+- [ ] NumberSolitaire
+- [ ] MinAbsSum
