@@ -14,7 +14,7 @@ Solutions to Codility Lessons in C#
 - [x] [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)
 
 ### Counting Elements
-- [ ] PermCheck
+- [x] [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)
 - [ ] FrogRiverOne
 - [ ] MissingInteger
 - [ ] MaxCounters
