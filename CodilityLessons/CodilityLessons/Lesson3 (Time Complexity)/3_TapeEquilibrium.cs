@@ -8,23 +8,19 @@ namespace CodilityLessons {
 
 		public int solution( int[] A ) {
 
-			long result = long.MaxValue;
+			int result = int.MaxValue;
 
-			long acc1 = 0;
-			long acc2 = A.Sum();
-
-
+			int acc1 = 0;
+			int acc2 = A.Sum();
 
 			for( int index = 0; index < A.Length - 1; index++ ) {
-				int item = A[index];
-				acc1 += item;
-				acc2 -= item;
+				acc1 += A[index];
+				acc2 -= A[index];
 
 				result = Math.Min( result, Math.Abs( acc1 - acc2 ) );
 			}
 
-			return (int)result;
-
+			return result;
 		}
 
 		[Theory]
