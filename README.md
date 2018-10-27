@@ -1,7 +1,7 @@
 Solutions to Codility Lessons in C#
 =======================
 **Iterations**
-	- BinaryGap
+	- [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
 **Arrays**
 	- CyclicRotation
 	- OddOccurrencesInArray
