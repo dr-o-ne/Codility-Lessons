@@ -11,9 +11,7 @@ Solutions to Codility Lessons in C#
 ### Time Complexity
 - [x] [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)
 - [x] [FrogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)
-- [ ] TapeEquilibrium
-
-
+- [x] [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)
 
 ### Counting Elements
 - [ ] PermCheck
