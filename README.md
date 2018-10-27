@@ -5,7 +5,7 @@ Solutions to Codility Lessons in C#
 
 **Arrays**
 	- [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
-	- OddOccurrencesInArray
+	- [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)
 
 **Time Complexity**
 	- TapeEquilibrium
