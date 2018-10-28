@@ -29,7 +29,7 @@ Solutions to Codility Lessons in C#
 - [x] [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/)
 - [x] [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/)
 - [x] [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)
-- [ ] NumberOfDiscIntersections
+- [x] [NumberOfDiscIntersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/)
 
 ### Stacks and Queues
 - [ ] Brackets
