@@ -28,7 +28,7 @@ Solutions to Codility Lessons in C#
 ### Sorting
 - [x] [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/)
 - [x] [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/)
-- [ ] MaxProductOfThree
+- [x] [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)
 - [ ] NumberOfDiscIntersections
 
 ### Stacks and Queues
