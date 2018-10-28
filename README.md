@@ -19,12 +19,11 @@ Solutions to Codility Lessons in C#
 - [x] [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
 - [x] [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)
 
-
 ### Prefix Sums
 - [x] [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)
+- [x] [GenomicRangeQuery](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)
 - [ ] CountDiv
 - [ ] MinAvgTwoSlice
-- [ ] GenomicRangeQuery
 
 ### Sorting
 - [ ] MaxProductOfThree
