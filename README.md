@@ -16,8 +16,9 @@ Solutions to Codility Lessons in C#
 ### Counting Elements
 - [x] [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)
 - [x] [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)
-- [x] [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
-- [ ] MaxCounters
+- [x] [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
+- [ ] [MissingInteger]
+
 
 ### Prefix Sums
 - [ ] PassingCars
