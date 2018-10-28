@@ -9,7 +9,7 @@ namespace CodilityLessons {
 
 		[Theory]
 		[InlineData( 3, 10, 85, 30 )]
-		public void BaseTestCases( int expected, int x, int y, int d ) => Assert.Equal( expected, solution( x, y, d ) );
+		public void Test( int expected, int x, int y, int d ) => Assert.Equal( expected, solution( x, y, d ) );
 
 	}
 

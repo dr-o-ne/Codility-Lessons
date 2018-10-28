@@ -9,7 +9,7 @@ namespace CodilityLessons {
 
 		[Theory]
 		[InlineData( 7, new[] { 9, 3, 9, 3, 9, 7, 9 } )]
-		public void BaseTestCases( int expected, int[] input ) => Assert.Equal( expected, solution( input ) );
+		public void Test( int expected, int[] input ) => Assert.Equal( expected, solution( input ) );
 
 	}
 
