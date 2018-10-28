@@ -21,7 +21,7 @@ Solutions to Codility Lessons in C#
 
 
 ### Prefix Sums
-- [ ] PassingCars
+- [x] [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)
 - [ ] CountDiv
 - [ ] MinAvgTwoSlice
 - [ ] GenomicRangeQuery
