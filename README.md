@@ -32,7 +32,7 @@ Solutions to Codility Lessons in C#
 - [x] [NumberOfDiscIntersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/)
 
 ### Stacks and Queues
-- [ ] Brackets
+- [x] [Brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)
 - [ ] Nesting
 - [ ] StoneWall
 - [ ] Fish
