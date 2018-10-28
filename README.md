@@ -26,9 +26,9 @@ Solutions to Codility Lessons in C#
 - [x] [CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)
 
 ### Sorting
+- [x] [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/)
 - [ ] MaxProductOfThree
 - [ ] Triangle
-- [ ] Distinct
 - [ ] NumberOfDiscIntersections
 
 ### Stacks and Queues
