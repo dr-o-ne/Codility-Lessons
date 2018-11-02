@@ -34,7 +34,7 @@ Solutions to Codility Lessons in C#
 ### Stacks and Queues
 - [x] [Brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)
 - [x] [Nesting](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/)
-- [ ] StoneWall
+- [x] [StoneWall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)
 - [ ] Fish
 	
 ### Leader
