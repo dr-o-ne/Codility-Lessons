@@ -35,7 +35,7 @@ Solutions to Codility Lessons in C#
 - [x] [Brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)
 - [x] [Nesting](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/)
 - [x] [StoneWall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)
-- [ ] Fish
+- [x] [Fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)
 	
 ### Leader
 - [ ] Dominator
