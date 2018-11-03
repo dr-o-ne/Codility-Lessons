@@ -38,8 +38,8 @@ Solutions to Codility Lessons in C#
 - [x] [Fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)
 	
 ### Leader
-- [ ] Dominator
 - [ ] EquiLeader
+- [x] [Dominator](https://app.codility.com/programmers/lessons/8-leader/dominator/)
 
 ### Maximum slice problem
 - [ ] MaxProfit

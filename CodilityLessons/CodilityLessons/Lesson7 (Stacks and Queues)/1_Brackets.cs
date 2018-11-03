@@ -28,6 +28,7 @@ namespace CodilityLessons {
 			return stack.Count == 0 ? 1 : 0;
 		}
 
+		[Theory]
 		[InlineData( 0, "}{" )]
 		[InlineData( 1, "{[()()]}" )]
 		[InlineData( 0, "([)()]" )]
