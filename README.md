@@ -42,9 +42,10 @@ Solutions to Codility Lessons in C#
 - [x] [Dominator](https://app.codility.com/programmers/lessons/8-leader/dominator/)
 
 ### Maximum slice problem
+- [x] [MaxSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)
 - [ ] MaxProfit
 - [ ] MaxDoubleSliceSum
-- [ ] MaxSliceSum
+
 
 ### Prime and composite numbers
 - [ ] CountFactors
