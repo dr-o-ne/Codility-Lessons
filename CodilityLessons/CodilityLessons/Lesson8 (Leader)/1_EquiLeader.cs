@@ -4,6 +4,9 @@ namespace CodilityLessons {
 
 	public sealed class EquiLeader {
 
+		/// <summary>
+		/// Leader of sequence == leaders of sub-sequences
+		/// </summary>
 		public int solution( int[] A ) {
 
 			var leader = FindLeader( A );
@@ -17,7 +20,6 @@ namespace CodilityLessons {
 				if( x == leader )
 					rightLeaderCnt++;
 			
-
 			for( int i = 0; i < A.Length; i++ ) {
 				if( A[i] == leader ) {
 					leftLeaderCnt++;
