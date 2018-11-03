@@ -7,20 +7,19 @@ namespace CodilityLessons {
 
 		public int solution( int[] A ) {
 
-			long result = int.MinValue;
-			long slice = int.MinValue;
+			var result = 0;
+			var minimum = int.MaxValue;
 
 			foreach( var item in A ) {
-				slice = Math.Max( item, slice + item );
-				result = Math.Max( result, slice );
+				minimum = Math.Min( minimum, item );
+				result = Math.Max( result, item - minimum );
 			}
 
-			return (int)result;
+			return result;
 		}
 
 		[Theory]
-		[InlineData( -10, new[] { -10 } )]
-		[InlineData( 5, new[] { 3, 2, -6, 4, 0 } )]
+		[InlineData( 356, new[] { 23171, 21011, 21123, 21366, 21013, 21367 } )]
 		public void Test( int expected, int[] a ) => Assert.Equal( expected, solution( a ) );
 
 	}
