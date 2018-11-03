@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using Xunit;
 
 namespace CodilityLessons {
 
@@ -67,6 +68,10 @@ namespace CodilityLessons {
 
 			return 2 * cnt > input.Count ? candidate : -1;
 		}
+
+		[Theory]
+		[InlineData( 2, new[] { 4, 3, 4, 4, 4, 2 } )]
+		public void Test( int expected, int[] a ) => Assert.Equal( expected, solution( a ) );
 
 	}
 
