@@ -43,7 +43,7 @@ Solutions to Codility Lessons in C#
 
 ### Maximum slice problem
 - [x] [MaxSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)
-- [ ] MaxProfit
+- [x] [MaxProfit](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/)
 - [ ] MaxDoubleSliceSum
 
 
