@@ -48,7 +48,7 @@ Solutions to Codility Lessons in C#
 
 
 ### Prime and composite numbers
-- [ ] CountFactors
+- [x] [CountFactors](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
 - [ ] MinPerimeterRectangle
 - [ ] Peaks
 - [ ] Flags
