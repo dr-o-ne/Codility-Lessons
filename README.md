@@ -50,7 +50,7 @@ Solutions to Codility Lessons in C#
 ### Prime and composite numbers
 - [x] [CountFactors](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
 - [x] [MinPerimeterRectangle](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
-- [ ] Peaks
+- [x] [Peaks](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/)
 - [ ] Flags
 
 ### Sieve of Erastothenes
