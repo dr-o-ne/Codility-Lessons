@@ -51,7 +51,7 @@ Solutions to Codility Lessons in C#
 - [x] [CountFactors](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
 - [x] [MinPerimeterRectangle](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
 - [x] [Peaks](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/)
-- [ ] Flags
+- [x] [Flags](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/)
 
 ### Sieve of Erastothenes
 - [ ] CountSemiprimes
