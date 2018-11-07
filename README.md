@@ -54,8 +54,9 @@ Solutions to Codility Lessons in C#
 - [x] [Flags](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/)
 
 ### Sieve of Erastothenes
+- [x] [CountNonDivisible](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/)
 - [ ] CountSemiprimes
-- [ ] CountNonDivisible
+
 
 ### Euclidian algorithm
 - [ ] ChocolatesByNumbers
