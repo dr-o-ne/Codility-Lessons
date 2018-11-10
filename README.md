@@ -46,7 +46,6 @@ Solutions to Codility Lessons in C#
 - [x] [MaxProfit](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/)
 - [x] [MaxDoubleSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)
 
-
 ### Prime and composite numbers
 - [x] [CountFactors](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
 - [x] [MinPerimeterRectangle](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
@@ -55,7 +54,7 @@ Solutions to Codility Lessons in C#
 
 ### Sieve of Erastothenes
 - [x] [CountNonDivisible](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/)
-- [ ] CountSemiprimes
+- [x] [CountSemiprimes](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_semiprimes/)
 
 
 ### Euclidian algorithm
